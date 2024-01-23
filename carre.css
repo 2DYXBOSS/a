@@ -1,0 +1,89 @@
+/* .grande_div1{
+    background-color: blueviolet;
+    width: 100%;
+    height: 100%;
+     */
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(166, 94, 233);
+    height: 600px;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+#b {
+    margin-bottom: 5px;
+    
+}
+.page {
+    background-color: rgb(255, 0, 0);
+    height: 570px;
+    width: 90%;
+    /* width: 1280px; */
+    margin: 0 auto;
+    
+    
+}
+#p {
+    margin-bottom: 10px;
+
+}
+.entete {
+    width: 90%;
+    height: 15%;
+    background-color: rgb(235, 19, 199);
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+.colonnes {
+    height: 60%;
+    width: 90%;
+    margin: 0 auto;
+    background-color: aqua;
+
+}
+.colonne_menu {
+    background-color: yellow;
+    display: flex;
+    justify-content:center;
+    margin: 0 auto;
+    height: 50%;
+    width: 90%;
+    margin:left;
+
+
+}
+.jv{
+    background-color:aqua;
+    height:95% ;
+    display: flex;
+}
+.jaune{
+    background-color: yellow;
+    height: 90%;
+    width: 30%;
+    margin: auto;
+}
+.vet{
+    background-color: greenyellow;
+    height: 90%;
+    width: 60%;
+    margin: auto;
+
+}
+.pieddepage{
+    background-color: beige;
+    height: 10%;
+    width: 90%;
+    margin: auto;
+    margin-top: 15px;
+
+}
